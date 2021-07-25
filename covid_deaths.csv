@@ -1,14 +1,14 @@
 Name,Date,Age,Profile description,Place of death,Death_year,Death_month,Death_day
-Liang Wudong,25 January 2020,60,Doctor (Otorhinolaryngology) (first death due to hospital-acquired infection),China (Wuhan),2020,1,25
+Liang Wudong,25 January 2020,60,Doctor of otorhinolaryngology (first death due to hospital-acquired infection),China (Wuhan),2020,1,25
 Wang Xianliang,26 January 2020,62,Director of the Ethnic and Religious Affairs Commission of Wuhan (2012–2017),China (Wuhan),2020,1,26
 Yang Xiaobo,27 January 2020,57,Mayor of Huangshi (2009–2014) and delegate to the National People's Congress (2013–2018),China (Wuhan),2020,1,27
 Wen Zengxian,31 January 2020,67,Deputy director-general of the Civil Affairs Department of Hubei Province (1997–2010),China (Wuhan),2020,1,31
 Qiu Jun,6 February 2020,72,Bodybuilder,China (Wuhan),2020,2,6
 Hong Ling,7 February 2020,53,Professor of genetics at the Huazhong University of Science and Technology,China (Wuhan),2020,2,7
-Li Wenliang,7 February 2020,33,Doctor (Ophthalmology) at the Central Hospital of Wuhan (whistleblower of the COVID-19 outbreak in Wuhan),China (Wuhan),2020,2,7
-Lin Zhengbin,10 February 2020,62,Doctor (Organ transplantation),China (Wuhan),2020,2,10
+Li Wenliang,7 February 2020,33,Doctor of ophthalmology at the Central Hospital of Wuhan (whistleblower of the COVID-19 outbreak in Wuhan),China (Wuhan),2020,2,7
+Lin Zhengbin,10 February 2020,62,Doctor of organ transplantation,China (Wuhan),2020,2,10
 Liu Shouxiang,13 February 2020,61,Professor of watercolor painting at the Hubei Institute of Fine Arts,China (Wuhan),2020,2,13
-Liu Fan,14 February 2020,59,Nurse,China (Wuhan),2020,2,14
+Liu Fan,14 February 2020,59,Deputy chief nurse of Wuchang Hospital,China (Wuhan),2020,2,14
 Duan Zhengcheng,15 February 2020,85,Professor of industrial engineering at Huazhong University of Science and Technology and Academian of the Chinese Academy of Engineering,China (Wuhan),2020,2,15
 Ke Huibing,19 February 2020,41,Professor of management science at Huazhong University of Science and Technology,China (Wuhan),2020,2,19
 Hadi Khosroshahi,27 February 2020,81,Ambassador of Iran to the Holy See (1981–1986),Iran (Tehran),2020,2,27
@@ -23,7 +23,7 @@ Lee Cha-su,9 March 2020,62,Chairman of Buk District Council (2010–2012),South 
 Mohammad-Reza Rahchamani,9 March 2020,67,Head of State Welfare Organization (2001–2005) and member of Islamic Consultative Assembly (1984–2000),Iran (Tehran),2020,3,9
 Mohammad Kiavash,10 March 2020,89,Member of the Islamic Consultative Assembly (1980–1988),Iran (Tehran),2020,3,10
 Marcelo Peralta,10 March 2020,59,Saxophonist,Spain (Madrid),2020,3,10
-Roberto Stella,11 March 2020,67,Doctor,Italy (Como),2020,3,11
+Roberto Stella,11 March 2020,67,Physician,Italy (Como),2020,3,11
 Giovanni Battista Rabino,12 March 2020,88,Member of the Senate of Italy (1992–1994) and member of the Chamber of Deputies of Italy (1983–1992),Italy (Asti),2020,3,12
 Nasser Shabani,13 March 2020,62,Military officer and senior commander of the Islamic Revolutionary Guard Corps,Iran,2020,3,13
 Piero Schlesinger,14 March 2020,89,Banker and president of the Banca Popolare di Milano (1971–1993),Italy (Milan),2020,3,14
@@ -51,7 +51,7 @@ Tarcisio Stramare,20 March 2020,91,Priest,Italy (Imperia),2020,3,20
 Marguerite Aucouturier,21 March 2020,87,Psychoanalyst,France (Paris),2020,3,21
 Aileen Baviera,21 March 2020,60,Political scientist and sinologist,Philippines (Manila),2020,3,21
 Vicenç Capdevila,21 March 2020,83,Member of the Congress of Deputies of Spain (1977–1979) and member of the Parliament of Catalonia (1980–1984),Spain (L'Hospitalet de Llobregat),2020,3,21
-Jean-Jacques Razafindranazy,21 March 2020,67,Doctor (Paediatrics),France (Lille),2020,3,21
+Jean-Jacques Razafindranazy,21 March 2020,67,Doctor of pediatrics,France (Lille),2020,3,21
 Lorenzo Sanz,21 March 2020,76,Businessman and President of Real Madrid (1995–2000),Spain (Madrid),2020,3,21
 William Stern,21 March 2020,84,Businessman and survivor of the Bergen-Belsen concentration camp,United Kingdom,2020,3,21
 Germà Colón,22 March 2020,91,Philologist,Spain (Barcelona),2020,3,22
@@ -87,7 +87,7 @@ David Edwards,24 March 2020,48,Basketball player,United States (Queens),2020,3,2
 Paul Goma,24 March 2020,84,Political dissident and writer,France (Paris),2020,3,24
 Terrence McNally,24 March 2020,81,Playwright and screenwriter,United States (Sarasota),2020,3,24
 Lillo Venezia,24 March 2020,70,Journalist,Italy (Catania),2020,3,24
-John F. Murray,24 March 2020,92,Doctor (Pulmonology),France (Paris),2020,3,24
+John F. Murray,24 March 2020,92,Pulmonologist and chief of Pulmonology at San Francisco General Hospital,France (Paris),2020,3,24
 Jenny Polanco,24 March 2020,62,Fashion designer,Dominican Republic (Santo Domingo),2020,3,24
 Harry Aarts,25 March 2020,90,Member of the House of Representatives of the Netherlands (1973–1993),Netherlands (Tilburg),2020,3,25
 Kees Bakker,25 March 2020,76,Football chairman and police officer,Netherlands (Arnhem),2020,3,25
@@ -114,7 +114,7 @@ Imam Suroso,27 March 2020,56,Member of the People's Representative Council (sinc
 Santiago Llorente Fernández,27 March 2020,55,Athlete,Spain (Segovia),2020,3,27
 Jesús Gayoso Rey,27 March 2020,48,Head of Grupo de Acción Rápida (since 2014),Spain (Logroño),2020,3,27
 Ruben Melogno,27 March 2020,74,Singer,Spain (Madrid),2020,3,27
-Jacques F. Acar,27 March 2020,88,Doctor (Microbiology),France (Paris),2020,3,27
+Jacques F. Acar,27 March 2020,88,Doctor,France (Paris),2020,3,27
 Stefan Lippe,27 March 2020,64,CEO of Swiss Re (2009–2012),Switzerland,2020,3,27
 Orlando McDaniel,27 March 2020,59,American football player,United States (DeSoto),2020,3,27
 Michael McKinnell,27 March 2020,84,Architect,United States (Beverly),2020,3,27
@@ -135,9 +135,9 @@ Salvador Vives,28 March 2020,77,Voice actor,Spain (Barcelona),2020,3,28
 William Wolf,28 March 2020,94,Film and theater critic,United States (New York),2020,3,28
 Beryl Bernay,29 March 2020,94,Journalist and children's television creator,United States (New York City),2020,3,29
 José Luis Capón,29 March 2020,72,Footballer,Spain (Madrid),2020,3,29
-Emilia Currás,29 March 2020,92,Scientist and academic,Spain (Madrid),2020,3,29
+Emilia Currás,29 March 2020,92,Information scientist and academic,Spain (Madrid),2020,3,29
 Daniel Davisse,29 March 2020,81,Mayor of Choisy-le-Roi (1996–2014),France (Créteil),2020,3,29
-Joe Diffie,29 March 2020,61,Singer,United States (Nashville),2020,3,29
+Joe Diffie,29 March 2020,61,Country singer,United States (Nashville),2020,3,29
 Robert H. Garff,29 March 2020,77,Speaker of the Utah House of Representatives (1985–1987) and member of the Utah House of Representatives (1978–1987),United States (Salt Lake City),2020,3,29
 Isaac Robinson,29 March 2020,44,Member of the Michigan House of Representatives (since 2019),United States (Detroit),2020,3,29
 Maria Mercader,29 March 2020,54,Television news producer and journalist,United States (New York City),2020,3,29
@@ -148,7 +148,7 @@ Angelo Rottoli,29 March 2020,61,Boxer,Italy (Ponte San Pietro),2020,3,29
 Ken Shimura,29 March 2020,70,Comedian,Japan (Tokyo),2020,3,29
 Henri Tincq,29 March 2020,74,Journalist,France (Villeneuve-Saint-Georges),2020,3,29
 Maurice Bidermann,30 March 2020,87,Businessman,France (Paris),2020,3,30
-Lorena Borjas,30 March 2020,59,Activist,United States (Brooklyn),2020,3,30
+Lorena Borjas,30 March 2020,59,Transgender and immigrant rights activist,United States (Brooklyn),2020,3,30
 Wilhelm Burmann,30 March 2020,80,Ballet master and teacher,United States (New York City),2020,3,30
 Jorge Chica,30 March 2020,68,Footballer,Ecuador,2020,3,30
 Hilary Dwyer,30 March 2020,74,Actress,United Kingdom,2020,3,30
@@ -190,17 +190,17 @@ Goyo Benito,2 April 2020,73,Footballer,Spain (Madrid),2020,4,2
 Patricia Bosworth,2 April 2020,86,Actress and author,United States (New York City),2020,4,2
 Bernardita Catalla,2 April 2020,62,Ambassador of the Philippines to Lebanon (since 2017),Lebanon (Beirut),2020,4,2
 Zaccaria Cometti,2 April 2020,83,Footballer,Italy (Romano di Lombardia),2020,4,2
-François de Gaulle,2 April 2020,98,Priest and missionary,France (Bry-sur-Marne),2020,4,2
-William Frankland,2 April 2020,108,Doctor (Immunology and allergist),United Kingdom (London),2020,4,2
+François de Gaulle,2 April 2020,98,Catholic priest and missionary,France (Bry-sur-Marne),2020,4,2
+William Frankland,2 April 2020,108,Allergist and immunologist,United Kingdom (London),2020,4,2
 Juan Giménez,2 April 2020,76,Comic book artist and illustrator,Argentina (Mendoza),2020,4,2
-Anick Jesdanun,2 April 2020,51,Journalist,United States (New York City),2020,4,2
+Anick Jesdanun,2 April 2020,51,"Technology reporter and editor, first internet writer for the Associated Press",United States (New York City),2020,4,2
 Eddie Large,2 April 2020,78,Comedian,United Kingdom (Bristol),2020,4,2
 Gustavo Orellana,2 April 2020,79,"Architect, teacher, singer and former Secretary of Sports and Recreation",Ecuador (Guayaquil),2020,4,2
-Feriha Öz,2 April 2020,87,Doctor (Pathology) and academic,Turkey,2020,4,2
+Feriha Öz,2 April 2020,87,"Pathologist, academic, and medical doctor",Turkey,2020,4,2
 Rodrigo Pesántez Rodas,2 April 2020,82,Writer and poet,Ecuador (Guayaquil),2020,4,2
-Sergio Rossi,2 April 2020,84,Designer,Italy (Cesena),2020,4,2
+Sergio Rossi,2 April 2020,84,Shoe designer,Italy (Cesena),2020,4,2
 Aaron Rubashkin,2 April 2020,92,Businessman,United States (New York City),2020,4,2
-Nirmal Singh Khalsa,2 April 2020,67,Singer and Ragi of Darbar Sahib,India (Amritsar),2020,4,2
+Nirmal Singh Khalsa,2 April 2020,67,"Singer, Ragi of Darbar Sahib",India (Amritsar),2020,4,2
 Arnold Sowinski,2 April 2020,89,Footballer,France (Lens),2020,4,2
 Aptripel Tumimomor,2 April 2020,53,Regent of North Morowali (since 2016),Indonesia (Makassar),2020,4,2
 Jan Veentjer,2 April 2020,82,Olympic field hockey player,Netherlands (The Hague),2020,4,2
@@ -224,11 +224,11 @@ Montserrat Sabater Bacigalupi,4 April 2020,79,Publisher,Spain (Barcelona),2020,4
 Jay Benedict,4 April 2020,68,Actor,United Kingdom (London),2020,4,4
 Philippe Bodson,4 April 2020,75,Member of the Senate of Belgium (1999–2003),Belgium (Brussels),2020,4,4
 Forrest Compton,4 April 2020,94,Actor,United States (Shelter Island),2020,4,4
-Florindo Corral,4 April 2020,70,Businessman,Brazil (São Paulo),2020,4,4
+Florindo Corral,4 April 2020,70,Businessperson,Brazil (São Paulo),2020,4,4
 Tom Dempsey,4 April 2020,73,American football player,United States (New Orleans),2020,4,4
-Xavier Dor,4 April 2020,91,Doctor (Embryology) and anti-abortion activist,France (Paris),2020,4,4
+Xavier Dor,4 April 2020,91,Embryologist and anti-abortion activist,France (Paris),2020,4,4
 Ken Farnum,4 April 2020,89,Olympic cyclist,United States (New York City),2020,4,4
-Lila Fenwick,4 April 2020,87,Lawyer,United States (New York City),2020,4,4
+Lila Fenwick,4 April 2020,87,Chief of the United Nations Human Rights Council,United States (New York City),2020,4,4
 Patrick Francfort,4 April 2020,63,"Musician, drummer, and member of the Gibson Brothers",France (Paris),2020,4,4
 Carlos González-Artigas,4 April 2020,72,Businessman,Ecuador (Guayaquil),2020,4,4
 Vincent Lionti,4 April 2020,60,Violist and conductor,United States (New York City),2020,4,4
@@ -263,7 +263,7 @@ Jacques Frémontier,7 April 2020,89,Journalist and television producer,France (P
 Allen Garfield,7 April 2020,80,Actor,United States (Los Angeles),2020,4,7
 Henry Graff,7 April 2020,98,Historian,United States (Greenwich),2020,4,7
 Leib Groner,7 April 2020,88,Rabbi,United States (New York City),2020,4,7
-Hudeidi,7 April 2020,89,Musician,United Kingdom (London),2020,4,7
+Hudeidi,7 April 2020,89,Traditional Somali musician,United Kingdom (London),2020,4,7
 Mishik Kazaryan,7 April 2020,72,Physicist,Russia (Moscow),2020,4,7
 Jan Křen,7 April 2020,89,"Historian, academic, and dissident",Czech Republic (Prague),2020,4,7
 John Percy Leon Lewis,7 April 2020,77,Military officer,Guyana (Georgetown),2020,4,7
@@ -279,7 +279,7 @@ Ghyslain Tremblay,7 April 2020,68,Actor and comedian,Canada (Verdun),2020,4,7
 Hal Willner,7 April 2020,64,Music producer,United States (New York City),2020,4,7
 Leila Benitez-McCollum,8 April 2020,89,Television and radio host,United States (New York City),2020,4,8
 Tom Blackwell,8 April 2020,82,Artist,United States (Poughkeepsie),2020,4,8
-Robert L. Carroll,8 April 2020,81,Paleontologist and director of the Redpath Museum (1985–1991),Canada (Westmount),2020,4,8
+Robert L. Carroll,8 April 2020,81,Vertebrate paleontologist and director of the Redpath Museum (1985–1991),Canada (Westmount),2020,4,8
 Martin S. Fox,8 April 2020,95,Publisher,United States (Millburn),2020,4,8
 Miguel Jones,8 April 2020,81,Footballer,Spain (Madrid),2020,4,8
 Bernie Juskiewicz,8 April 2020,77,Member of the Vermont House of Representatives (2013–2019),United States (Montpelier),2020,4,8
@@ -304,7 +304,7 @@ Rifat Chadirji,10 April 2020,93,"Architect, photographer, and activist",United K
 Frits Flinkevleugel,10 April 2020,80,Footballer,Netherlands (Amsterdam),2020,4,10
 Samuel Hargress II,10 April 2020,84,Jazz club owner,United States (New York City),2020,4,10
 Ceybil Jefferies,10 April 2020,57–58,Singer,United States (New York City),2020,4,10
-Michel Lelong,10 April 2020,95,Priest,France (Paris),2020,4,10
+Michel Lelong,10 April 2020,95,Catholic priest,France (Paris),2020,4,10
 Marianne Lundquist,10 April 2020,88,Olympic swimmer,Sweden (Stockholm),2020,4,10
 Enrique Múgica,10 April 2020,88,"Ombudsman of Spain (2000–2010), Minister of Justice (1988–1991), and member of the Congress of Deputies (1977–2000)",Spain (Madrid),2020,4,10
 Bas Mulder,10 April 2020,88,Priest,Netherlands (Boxmeer),2020,4,10
@@ -325,7 +325,7 @@ Eliyahu Bakshi-Doron,12 April 2020,79,Chief Rabbi of Israel (1993–2003),Israel
 Maurice Barrier,12 April 2020,87,Actor and singer,France (Montbard),2020,4,12
 Claude Beauchamp,12 April 2020,80,"Journalist, publisher, and political activist",Canada (Montreal),2020,4,12
 Tim Brooke-Taylor,12 April 2020,79,Comedian,United Kingdom (Cookham),2020,4,12
-Victor Batista Falla,12 April 2020,87,"Journalist, editor and publisher",Cuba (Havana),2020,4,12
+Victor Batista Falla,12 April 2020,87,Editor and publisher,Cuba (Havana),2020,4,12
 André Manaranche,12 April 2020,93,Priest and theologian,France (Lille),2020,4,12
 Joel M. Reed,12 April 2020,86,Filmmaker and screenwriter,United States (New York City),2020,4,12
 Jaime Ruiz Sacristán,12 April 2020,70,Chairman of the Mexican Stock Exchange (since 2015),Mexico (Mexico City),2020,4,12
@@ -337,7 +337,7 @@ Baldiri Alavedra,13 April 2020,76,Footballer,Spain (Gavà),2020,4,13
 Gil Bailey,13 April 2020,84,Radio broadcaster,United States (New York City),2020,4,13
 Juan Cotino,13 April 2020,70,Member of the Corts Valencianes (2007–2014) and Director General of the Police (1996–2002),Spain (Valencia),2020,4,13
 Jerry Givens,13 April 2020,67,Executioner and anti-death penalty advocate,United States (Richmond),2020,4,13
-Philippe Lécrivain,13 April 2020,78,Priest and historian,France (Paris),2020,4,13
+Philippe Lécrivain,13 April 2020,78,Jesuit priest and historian,France (Paris),2020,4,13
 Thomas Kunz,13 April 2020,81,Biologist,United States (Dedham),2020,4,13
 Benjamin Levin,13 April 2020,93,Partisan and Holocaust survivor,United States (New York City),2020,4,13
 Sarah Maldoror,13 April 2020,90,Filmmaker,France (Fontenay-lès-Briis),2020,4,13
@@ -356,7 +356,7 @@ William H. Gerdts,14 April 2020,91,Art historian,United States (White Plains),20
 Michael Gilkes,14 April 2020,86,Writer,United Kingdom (London),2020,4,14
 Cyril Lawrence,14 April 2020,99,Footballer,United Kingdom (Farnworth),2020,4,14
 Miodrag Lazić,14 April 2020,63,Doctor and writer,Serbia (Niš),2020,4,14
-Maria de Sousa,14 April 2020,80,Doctor (Immunology),Portugal (Lisbon),2020,4,14
+Maria de Sousa,14 April 2020,80,Doctor,Portugal (Lisbon),2020,4,14
 Ella King Russell Torrey,14 April 2020,94,Human rights activist and aide to Eleanor Roosevelt,United States (Philadelphia),2020,4,14
 Peter Whiteside,14 April 2020,67,Olympic modern pentathlete,United Kingdom (Peterborough),2020,4,14
 Adam Alsing,15 April 2020,51,Radio and television host,Sweden (Stockholm),2020,4,15
@@ -404,7 +404,7 @@ Jacques Rosny,18 April 2020,81,Actor,France (Nogent-sur-Marne),2020,4,18
 Emma Weigley,18 April 2020,87,Nutritionist,United States (South Philadelphia),2020,4,18
 Steve Dalkowski,19 April 2020,80,Baseball player,United States (New Britain),2020,4,19
 Noach Dear,19 April 2020,66,Justice of the Supreme Court of New York (since 2015),United States (Brooklyn),2020,4,19
-Terry Doran,19 April 2020,80,Music manager and publishing executive,United Kingdom (London),2020,4,19
+Terry Doran,19 April 2020,80,Pop music manager and music publishing executive,United Kingdom (London),2020,4,19
 Claude Lafortune,19 April 2020,83,"Paper sculptor, set designer, and television personality",Canada (Longueuil),2020,4,19
 Philippe Nahon,19 April 2020,81,Actor,France (Paris),2020,4,19
 Sergio Onofre Jarpa,19 April 2020,99,Minister of the Interior of Chile (1983–1985),Chile (Las Condes),2020,4,19
@@ -432,7 +432,7 @@ Teruyuki Okazaki,21 April 2020,88,Karate master,United States (Philadelphia),202
 Joel Rogosin,21 April 2020,87,Television producer and writer,United States (Woodland Hills),2020,4,21
 Jacques Pellen,21 April 2020,63,Jazz guitarist,France (Brest),2020,4,21
 Gerson Peres,21 April 2020,88,Member of the Chamber of Deputies of Brazil (2007–2011 and 1983–2003),Brazil (Belém),2020,4,21
-Miguel Ángel Troitiño,21 April 2020,72–73,Human geographer,Spain (Madrid),2020,4,21
+Miguel Ángel Troitiño,21 April 2020,72–73,"Human geographer, expert on cultural tourism and heritage preservation",Spain (Madrid),2020,4,21
 Koos van den Berg,21 April 2020,77,Member of the House of Representatives of the Netherlands (1986–2002),Netherlands (Nunspeet),2020,4,21
 Esteban Yáñez,21 April 2020,35,"Actor, musician, and blogger",Spain (Santiago de Compostela),2020,4,21
 Samantha Fox,21 April 2020,69,Actress,United States,2020,4,21
@@ -447,7 +447,7 @@ Henk Overgoor,23 April 2020,75,Footballer,Netherlands (Amsterdam),2020,4,23
 Carlos Ernesto Escobar Mejía,24 April 2020,57,U.S. Immigration and Customs Enforcement detainee,United States (National City),2020,4,24
 Mike Huckaby,24 April 2020,54,Musician,United States (Detroit),2020,4,24
 Yukio Okamoto,24 April 2020,74,Diplomat and diplomatic analyst,Japan,2020,4,24
-Burton Rose,24 April 2020,77,Doctor (Nephrology),United States (Wellesley),2020,4,24
+Burton Rose,24 April 2020,77,Nephrologist,United States (Wellesley),2020,4,24
 Gerald Slater,24 April 2020,86,Public television executive and producer,"United States (Washington, D.C.)",2020,4,24
 Alan Abel,25 April 2020,91,Percussionist and music educator,United States (Wynnewood),2020,4,25
 Ricardo Brennand,25 April 2020,92,"Businessman, engineer, and art collector",Brazil (Recife),2020,4,25
@@ -462,7 +462,7 @@ John Rowlands,26 April 2020,73,Footballer,United Kingdom (Holyhead),2020,4,26
 Badruddin Shaikh,26 April 2020,67,Member of the Ahmedabad Municipal Corporation (since 2010),India (Ahmedabad),2020,4,26
 Henri Weber,26 April 2020,75,Member of the European Parliament for France (2004–2014) and Member of the Senate of France (1995–2004),France (Avignon),2020,4,26
 Yehudah Jacobs,27 April 2020,85,Rabbi and Mashgiach ruchani at Beth Medrash Govoha,United States (Lakewood Township),2020,4,27
-James Mahoney,27 April 2020,62,Doctor (Pulmonology) and internist,United States (New York City),2020,4,27
+James Mahoney,27 April 2020,62,Pulmonologist and internist,United States (New York City),2020,4,27
 Zafar Rasheed Bhatti,27 April 2020,70,Journalist,Pakistan (Rawalpindi),2020,4,27
 Asdrubal Bentes,27 April 2020,80,"Member of the Chamber of Deputies of Brazil (2001–2014, 1997–1999, and 1987–1991)",Brazil (Belém),2020,4,27
 Yupadee Kobkulboonsiri,27 April 2020,51,Jewelry designer,United States (Brooklyn),2020,4,27
@@ -483,14 +483,14 @@ Dick Lucas,29 April 2020,86,American football player,United States (Philadelphia
 Noel Walsh,29 April 2020,84,"Military Officer, footballer, manager and administrator",Ireland (Ennis),2020,4,29
 Richard Ndassa,29 April 2020,61,Member of the National Assembly of Tanzania (since 1995),Tanzania (Dodoma),2020,4,29
 Óscar Chávez,30 April 2020,85,Singer,Mexico (Mexico City),2020,4,30
-Alyce Chenault Gullattee,30 April 2020,91,"Doctor (Psychiatry), medical school professor, and activist","United States (Rockville, MD)",2020,4,30
+Alyce Chenault Gullattee,30 April 2020,91,"Psychiatrist, medical school professor, and activist","United States (Rockville, MD)",2020,4,30
 Jean-Marc Manducher,30 April 2020,71,Businessman and sports executive,France (Lyon),2020,4,30
 Sylvie Vincent,30 April 2020,79,Anthropologist and ethnologist,Canada (Montreal),2020,4,30
 Suleiman Adamu,30 April 2020,57,Member of the Nasarawa State House of Assembly (since 2015),Nigeria (Keffi),2020,4,30
 Yu Lihua,1 May 2020,88,Writer,United States (Gaithersburg),2020,5,1
 África Lorente Castillo,1 May 2020,65,Member of the Parliament of Catalonia (1984–1988),Spain (Castelldefels),2020,5,1
 Fernando Sandoval,1 May 2020,77,Olympic water polo player,Brazil (São Paulo),2020,5,1
-Gilbert Luis R. Centina III,1 May 2020,72,"Priest, poet, and writer",Spain (León),2020,5,1
+Gilbert Luis R. Centina III,1 May 2020,72,"Catholic priest, poet, and writer",Spain (León),2020,5,1
 Augustine Mahiga,1 May 2020,74,Minister of Justice and Constitutional Affairs of Tanzania (since 2019),Tanzania (Dodoma),2020,5,1
 Allah Yar Ansari,2 May 2020,77,Member of the Provincial Assembly of the Punjab (1997–1999),Pakistan (Sargodha),2020,5,2
 Justa Barrios,2 May 2020,63,Home care worker and labor organizer,United States (Long Branch),2020,5,2
@@ -644,7 +644,7 @@ Thandi Mpambo-Sibhukwana,19 June 2020,,Member of the National Assembly of South 
 Sylvio Capanema,20 June 2020,82,Jurist,Brazil (Rio de Janeiro),2020,6,20
 Joseph Ferris,20 June 2020,85,Member of the New York State Assembly (1975–1984),United States (Brooklyn),2020,6,20
 Kamal Lohani,20 June 2020,85,Director General of the Shilpakala Academy (2009–2011),Bangladesh (Dhaka),2020,6,20
-Mufti Muhammad Naeem,20 June 2020,64,Chancellor of Jamia Binoria (since 2016),Pakistan (Karachi),2020,6,20
+Mufti Muhammad Naeem,20 June 2020,64,Chancellor of Jamia Binoria,Pakistan (Karachi),2020,6,20
 Marconi Alencar,21 June 2020,81,Member of the Legislative Assembly of Ceará (1971–1987),Brazil (Fortaleza),2020,6,21
 Reynaldo Salazar,21 June 2020,65,Athlete,Mexico (Mexico City),2020,6,21
 György Bálint,21 June 2020,100,Member of the National Assembly of Hungary (1994–1998) and horticulturist,Hungary (Kistarcsa),2020,6,21
@@ -652,12 +652,12 @@ Talib Jauhari,21 June 2020,80,Islamic scholar,Pakistan (Karachi),2020,6,21
 Bernardino Piñera,21 June 2020,104,Archbishop of La Serena (1983–1990) and Bishop of Temuco (1960–1977),Chile (Santiago),2020,6,21
 Ahmed Radhi,21 June 2020,56,Footballer,Iraq (Baghdad),2020,6,21
 Ken Snow,21 June 2020,50,Footballer,United States (Port Huron),2020,6,21
-Jean-Michel Bokamba-Yangouma,23 June 2020,80,Member of the National Assembly of the Congo (1992–2012),Republic of the Congo (Brazzaville),2020,6,23
-Arthur Keaveney,23 June 2020,68,Historian,Ireland,2020,6,23
-Jampel Lodoy,23 June 2020,44,Kamby Lama of Tuva (since 2019 and 2005–2010),Russia (Kyzyl),2020,6,23
 Bernaldina José Pedro,24 June 2020,75,Tribal leader and activist,Brazil (Boa Vista),2020,6,24
 Mohammed Yaseen Mohammed,24 June 2020,57,Olympic weightlifter,Sweden (Örebro),2020,6,24
+Jean-Michel Bokamba-Yangouma,23 June 2020,80,Member of the National Assembly of the Congo (1992–2012),Republic of the Congo (Brazzaville),2020,6,23
 Tamonash Ghosh,24 June 2020,60,Member of the West Bengal Legislative Assembly (since 2011),India,2020,6,24
+Arthur Keaveney,23 June 2020,68,Historian (classicist),Ireland,2020,6,23
+Jampel Lodoy,23 June 2020,44,Kamby Lama of Tuva (since 2019 and 2005–2010),Russia (Kyzyl),2020,6,23
 Abiola Ajimobi,25 June 2020,70,Governor of Oyo State (2011–2019) and member of the Senate of Nigeria (2004–2007),Nigeria (Lagos),2020,6,25
 Papaléo Paes,25 June 2020,67,Member of the Senate of Brazil (2003–2011) and Vice Governor of Amapá (2015–2018),Brazil (Macapá),2020,6,25
 Munawar Hasan,26 June 2020,78,Member of the National Assembly of Pakistan (1977) and Emir of Jamaat-e-Islami (2009–2014),Pakistan (Karachi),2020,6,26
@@ -698,7 +698,7 @@ Agustín Alezzo,9 July 2020,84,Theater director,Argentina (Buenos Aires),2020,7,
 Marlene Catzín Cih,9 July 2020,66,"Mayor of Maxcanú (since 2018, 2010–2012, and 1994–1995)",Mexico (Mérida),2020,7,9
 Sahara Khatun,9 July 2020,77,Member of the Jatiya Sangsad (since 2009) and Minister of Home Affairs (2009–2012),Thailand (Bangkok),2020,7,9
 Mohamed Kouradji,9 July 2020,68,Football referee,Algeria (Constantine),2020,7,9
-Corra Dirksen,10 July 2020,82,Rugby union player,South Africa (Vereeniging),2020,7,10
+Corra Dirksen,10 July 2020,82,Rugby player,South Africa (Vereeniging),2020,7,10
 Ghaida Kambash,10 July 2020,46,Member of the Council of Representatives of Iraq (since 2010),Iraq (Baghdad),2020,7,10
 Cosmas Magaya,10 July 2020,66,Musician,Zimbabwe (Harare),2020,7,10
 Raymundo Capetillo,12 July 2020,76,Actor,Mexico (Mexico City),2020,7,12
@@ -713,7 +713,7 @@ Nurul Islam Babul,13 July 2020,74,Businessman and founder of Jamuna Group,Bangla
 Kenneth Church,13 July 2020,60,Thoroughbred racing jockey,United States (Reno),2020,7,13
 Zindzi Mandela,13 July 2020,59,Ambassador of South Africa to Denmark (since 2015),South Africa (Johannesburg),2020,7,13
 Muhammad Mohaiminul Islam,14 July 2020,78,Chief of Naval Staff in Bangladesh (1991–1995),Bangladesh (Dhaka),2020,7,14
-Caesar Korolenko,14 July 2020,86,Doctor (Psychiatry),Russia (Novosibirsk),2020,7,14
+Caesar Korolenko,14 July 2020,86,Psychiatrist,Russia (Novosibirsk),2020,7,14
 Benjamin Rabenorolahy,14 July 2020,80,Member of the Senate of Madagascar (since 2014),Madagascar (Antananarivo),2020,7,14
 Stephen Susman,14 July 2020,79,Attorney,United States (Houston),2020,7,14
 Sayed Haider,15 July 2020,94,Physician and Language Movement activist,Bangladesh (Dhaka),2020,7,15
@@ -727,7 +727,7 @@ Neela Satyanarayanan,16 July 2020,72,Author and civil servant,India (Mumbai),202
 Víctor Víctor,16 July 2020,71,Singer-songwriter,Dominican Republic (Santo Domingo),2020,7,16
 José Paulo de Andrade,17 July 2020,78,Journalist,Brazil (São Paulo),2020,7,17
 Moussa Benhamadi,17 July 2020,67,"Minister of Communication of Algeria (2010–2012), member of the People's National Assembly of Algeria (2002–2007), and CEO of Algérie Télécom (2008–2010)",Algeria (Bordj Bou Arréridj),2020,7,17
-Angela von Nowakonski,17 July 2020,67,Doctor,Brazil (Campinas),2020,7,17
+Angela von Nowakonski,17 July 2020,67,Physician,Brazil (Campinas),2020,7,17
 Charles Bukeko,18 July 2020,58,Actor and comedian,Kenya (Nairobi),2020,7,18
 Katherine B. Hoffman,18 July 2020,105,Chemist,United States (Tallahassee),2020,7,18
 Martha Mmola,18 July 2020,,Member of the National Council of Provinces (since 2019) and member of the National Assembly of South Africa (2014–2019),South Africa,2020,7,18
@@ -783,9 +783,9 @@ Shivajirao Patil Nilangekar,5 August 2020,88,Member of the Maharashtra Legislati
 Aritana Yawalapiti,5 August 2020,71,"Indigenous rights activist, cacique, and ecologist",Brazil (Goiânia),2020,8,5
 Shyamal Chakraborty,6 August 2020,76,Member of the Rajya Sabha (2008–2014) and West Bengal Legislative Assembly (1981–1996),India (Kolkata),2020,8,6
 Ramadhan Seif Kajembe,7 August 2020,98,Member of the National Assembly of Kenya (1997–2013),Kenya,2020,8,7
-Lungile Pepeta,7 August 2020,46,Doctor (Paediatric cardiology) and executive dean of the Nelson Mandela University,South Africa (Bizana),2020,8,7
+Lungile Pepeta,7 August 2020,46,"Academic, paediatric cardiologist, and executive dean of the Nelson Mandela University",South Africa (Bizana),2020,8,7
 Nina Popova,7 August 2020,97,Ballet dancer,United States (St. Augustine),2020,8,7
-Ángela Salazar,7 August 2020,66,Activist,Colombia (Apartadó),2020,8,7
+Ángela Salazar,7 August 2020,66,"Activist, member of the Commission for Truth",Colombia (Apartadó),2020,8,7
 Stephen F. Williams,7 August 2020,83,Judge of the United States Court of Appeals for the District of Columbia Circuit (since 1986),"United States (Washington, D.C.)",2020,8,7
 Bernard Fils-Aimé,8 August 2020,67,Entrepreneur and activist,United States (Miami),2020,8,8
 Buruji Kashamu,8 August 2020,62,Member of the Senate of Nigeria (2015–2019),Nigeria (Lagos),2020,8,8
@@ -810,7 +810,7 @@ Vimala Sharma,15 August 2020,93,First Lady of India (1992–1997),India (Bhopal)
 Chetan Chauhan,16 August 2020,73,"Member of the Uttar Pradesh Legislative Assembly (since 2017), member of the Lok Sabha (1991–1999) and cricketer",India (Gurgaon),2020,8,16
 Esther Morales,16 August 2020,70,First Lady of Bolivia (2006–2019),Bolivia (Oruro),2020,8,16
 Caio Narcio,16 August 2020,33,Member of the Chamber of Deputies of Brazil (2015–2019),Brazil (São Paulo),2020,8,16
-Elsimar M. Coutinho,17 August 2020,90,Doctor (Gynaecology),Brazil (São Paulo),2020,8,17
+Elsimar M. Coutinho,17 August 2020,90,Doctor,Brazil (São Paulo),2020,8,17
 Chaim Dov Keller,17 August 2020,90,Rabbi,United States (Chicago),2020,8,17
 Samares Das,17 August 2020,76,Member of the West Bengal Legislative Assembly (since 2009),India,2020,8,17
 Amvrosius Parashkevov,18 August 2020,78,Bishop of Dorostol (since 2010) and Bishop of Branitsa (1998–2010),Bulgaria (Silistra),2020,8,18
@@ -830,7 +830,7 @@ James E. Humphreys,27 August 2020,80,Mathematician,United States (Leeds),2020,8,
 William Neikirk,27 August 2020,82,Journalist,United States (Arlington County),2020,8,27
 Masud Yunus,27 August 2020,68,Mayor of Mojokerto (2013–2018),Indonesia (Mojokerto),2020,8,27
 H. Vasanthakumar,28 August 2020,70,Member of the Lok Sabha (since 2019) and Tamil Nadu Legislative Assembly (2016–2019 and 2006–2011),India (Chennai),2020,8,28
-S. I. Padmavati,29 August 2020,103,Doctor (Cardiology),India (New Delhi),2020,8,29
+S. I. Padmavati,29 August 2020,103,Cardiologist,India (New Delhi),2020,8,29
 Cecilia Romo,30 August 2020,74,Actress,Mexico (Mexico City),2020,8,30
 Ricardo Valderrama Fernández,30 August 2020,75,Mayor of Cusco Province (since 2019) and anthropologist,Peru (Cusco),2020,8,30
 Katyayani Shankar Bajpai,30 August 2020,92,"Ambassador of India to the United States (1984–1986), China (1980–1982), and Pakistan (1976–1980)",India,2020,8,30
@@ -1085,7 +1085,7 @@ Honestie Hodges,22 November 2020,14,Police reformer,United States (Grand Rapids)
 Elena Hrenova,22 November 2020,70,Member of the Parliament of Moldova (2014–2019),Moldova (Chișinău),2020,11,22
 David Maas,22 November 2020,57,"Magician, circus performer, and entertainer",United States (Chicago),2020,11,22
 George Nock,22 November 2020,74,American football player,United States (Snellville),2020,11,22
-Jerrold Post,22 November 2020,86,Doctor (Psychiatry) and author,United States (Bethesda),2020,11,22
+Jerrold Post,22 November 2020,86,Psychiatrist and author,United States (Bethesda),2020,11,22
 Dorothy Gill Barnes,23 November 2020,93,Artist,United States (Columbus),2020,11,23
 Vinicio Bernardini,23 November 2020,94,Member of the Chamber of Deputies of Italy (1976–1983) and Mayor of Pisa (1972 and 1983–1985),Italy (Pisa),2020,11,23
 Admir Džubur,23 November 2020,56,Businessman and football administrator,Bosnia and Herzegovina (Sarajevo),2020,11,23
@@ -1142,7 +1142,7 @@ Hassan Zare Dehnavi,30 November 2020,64,Judge,Iran (Tehran),2020,11,30
 Hasna Begum,1 December 2020,85,Professor and philosopher,Bangladesh (Dhaka),2020,12,1
 Abhay Bharadwaj,1 December 2020,66,Member of the Rajya Sabha (since 2020),India (Chennai),2020,12,1
 Nomula Narsimhaiah,1 December 2020,64,Member of the Telangana Legislative Assembly (since 2018),India (Hyderabad),2020,12,1
-Timoteo Ofrasio,1 December 2020,72,Priest and liturgist,Philippines (San Pablo),2020,12,1
+Timoteo Ofrasio,1 December 2020,72,Jesuit priest and liturgist,Philippines (San Pablo),2020,12,1
 Arnie Robinson,1 December 2020,72,Olympic long jumper,United States (San Diego),2020,12,1
 Sol Tolchinsky,1 December 2020,91,Olympic basketball player,Canada (Montreal),2020,12,1
 Valéry Giscard d'Estaing,2 December 2020,94,President of France (1974–1981),France (Authon),2020,12,2
@@ -1150,8 +1150,8 @@ Franco Giraldi,2 December 2020,89,Director and screenwriter,Italy (Trieste),2020
 Alfred Kucharczyk,2 December 2020,83,Olympic gymnast,Poland,2020,12,2
 Aldo Moser,2 December 2020,86,Racing cyclist,Italy (Trento),2020,12,2
 Boris Plotnikov,2 December 2020,71,Actor,Russia (Moscow),2020,12,2
-Karim Salman,2 December 2020,55,Footballer,Iraq (Baghdad),2020,12,2
-Dadang Hawari,3 December 2020,80,Doctor (Psychiatry),Indonesia (Jakarta),2020,12,3
+Karim Salman,2 December 2020,55,Coach and Olympic footballer,Iraq (Baghdad),2020,12,2
+Dadang Hawari,3 December 2020,80,Psychiatrist,Indonesia (Jakarta),2020,12,3
 Adil Ismayilov,3 December 2020,63,"Lawyer, jurist, and investigator",Azerbaijan (Baku),2020,12,3
 Ron Mathewson,3 December 2020,76,Jazz double bassist and bass guitarist,United Kingdom (London),2020,12,3
 Peter DiFronzo,4 December 2020,87,Mobster,United States (North Barrington),2020,12,4
@@ -1205,7 +1205,7 @@ Farid Abraão David,11 December 2020,76,Member of the Chamber of Deputies of Bra
 Đurđa Ivezić,11 December 2020,84,Actress,Croatia (Zagreb),2020,12,11
 Kim Ki-duk,11 December 2020,59,Film director,Latvia (Riga),2020,12,11
 Joseph Nyagah,11 December 2020,72,Member of the National Assembly of Kenya (1997–2007),Kenya (Nairobi),2020,12,11
-Lev Shcheglov,11 December 2020,74,Doctor,Russia (Saint Petersburg),2020,12,11
+Lev Shcheglov,11 December 2020,74,Physician,Russia (Saint Petersburg),2020,12,11
 Irena Veisaitė,11 December 2020,92,Theatre scholar and human rights activist,Lithuania (Vilnius),2020,12,11
 Damir Kukuruzović,12 December 2020,45,Jazz guitarist,Croatia (Zagreb),2020,12,12
 Charley Pride,12 December 2020,86,Singer and baseball player,United States (Dallas),2020,12,12
@@ -1271,7 +1271,7 @@ Julius Schachter,20 December 2020,84,Microbiologist,United States (San Francisco
 Frederik Batti Sorring,21 December 2020,65,Regent of North Toraja (2011–2016),Indonesia (Makassar),2020,12,21
 Ikenwoli Godfrey Emiko,21 December 2020,65,King of Warri (since 2015),Nigeria,2020,12,21
 Gilberto Ensástiga,21 December 2020,57,Member of the Chamber of Deputies of Mexico (2003–2006),Mexico,2020,12,21
-K. T. Oslin,21 December 2020,78,Singer-songwriter,United States (Nashville),2020,12,21
+K. T. Oslin,21 December 2020,78,Country singer-songwriter,United States (Nashville),2020,12,21
 Kalsoom Perveen,21 December 2020,,Member of the Senate of Pakistan (since 2003),Pakistan (Islamabad),2020,12,21
 Motilal Vora,21 December 2020,93,"Member of the Rajya Sabha (2002–2020 and 1988–1993), Governor of Uttar Pradesh (1993–1996), and Chief Minister of Madhya Pradesh (1989 and 1985–1988)",India (New Delhi),2020,12,21
 Wojciech Borowik,22 December 2020,64,Member of the Sejm (1993–1997),Poland,2020,12,22
@@ -1368,7 +1368,7 @@ Bonifácio José Tamm de Andrada,5 January 2021,90,Member of the Chamber of Depu
 Mluleki George,5 January 2021,72,Member of the National Assembly of South Africa (1994–2014),South Africa (East London),2021,1,5
 Donald Perry Polsky,5 January 2021,92,Architect,United States (Omaha),2021,1,5
 John Richardson,5 January 2021,86,Actor,United Kingdom,2021,1,5
-Kenneth Z. Altshuler,6 January 2021,91,Doctor (Psychiatry),United States (Dallas),2021,1,6
+Kenneth Z. Altshuler,6 January 2021,91,Psychiatrist,United States (Dallas),2021,1,6
 Mihai Cotorobai,6 January 2021,69,Member of the Parliament of Moldova (1990–1994),Moldova,2021,1,6
 James Cross,6 January 2021,99,Diplomat,United Kingdom (Seaford),2021,1,6
 Edward Gnat,6 January 2021,80,Member of the Sejm (1993–1997 and 1985–1989),Poland (Łódź),2021,1,6
@@ -1383,13 +1383,13 @@ Munira Yamin Satti,7 January 2021,65,Member of the Provincial Assembly of the Pu
 Reynaldo Umali,7 January 2021,63,Member of the House of Representatives of the Philippines (2010–2019),Philippines (Taguig),2021,1,7
 Cástor Oswaldo Azuaje Pérez,8 January 2021,69,Bishop of Trujillo (since 2012),Venezuela (Valera),2021,1,8
 Steve Carver,8 January 2021,75,"Film director, producer, and photographer",United States (Los Angeles),2021,1,8
-Steve Lightle,8 January 2021,61,Comic book artist,United States (Kansas City),2021,1,8
+Steve Lightle,8 January 2021,61,Comics artist,United States (Kansas City),2021,1,8
 Iancu Țucărman,8 January 2021,98,Agricultural engineer and Holocaust survivor,Romania (Bucharest),2021,1,8
 František Filip,9 January 2021,90,Film and television director,Czech Republic (Prague),2021,1,9
 John Lutz,9 January 2021,81,Writer,United States (St. Louis),2021,1,9
 Johnson Mlambo,9 January 2021,80,Political activist,South Africa,2021,1,9
 George Robertson,9 January 2021,93,Ice hockey player,Canada (Winnipeg),2021,1,9
-Fabrizio Soccorsi,9 January 2021,78,Doctor (Papal physician,Italy (Rome),2021,1,9
+Fabrizio Soccorsi,9 January 2021,78,Papal private doctor (since 2015),Italy (Rome),2021,1,9
 Hubert Auriol,10 January 2021,68,Rally driver,France (Garches),2021,1,10
 Aminu Isa Kontagora,10 January 2021,64,Governor of Benue State (1996–1998) and Kano State (1998–1999),Nigeria,2021,1,10
 Geraldo Antônio Miotto,10 January 2021,65,Military officer,Brazil (Porto Alegre),2021,1,10
@@ -1421,7 +1421,7 @@ Sidik Mia,12 January 2021,55,Minister of Transport and Public Works of Malawi (s
 Dugyala Srinivas Rao,12 January 2021,57,Member of the Andhra Pradesh Legislative Assembly (2004–2009),India,2021,1,12
 Philaret,12 January 2021,85,Head of the Belarusian Orthodox Church (1990–2013) and Archbishop of Minsk and Slutsk (1978–2013),Belarus (Minsk),2021,1,12
 Bridget Rowe,12 January 2021,70,Journalist and editor,United Kingdom (Farnborough),2021,1,12
-Frank Arok,12 January 2021,88,Footballer and coach,Serbia (Subotica),2021,1,12
+Frank Arok,12 January 2021,88,Association footballer and coach,Serbia (Subotica),2021,1,12
 Mario Cecchini,13 January 2021,87,Bishop of Fano-Fossombrone-Cagli-Pergola (1986–1998),Italy (Senigallia),2021,1,13
 Gerry Cottle,13 January 2021,75,Circus owner and presenter,United Kingdom (Bath),2021,1,13
 Moses Hamungole,13 January 2021,53,Bishop of Monze (since 2014),Zambia (Lusaka),2021,1,13
@@ -1503,17 +1503,17 @@ Giorgio Mondino,23 January 2021,79,Member of the Chamber of Deputies of Italy (1
 Roy Torrens,23 January 2021,72,Manager of the Irish cricket team (2004–2016) and cricketer,United Kingdom (Coleraine),2021,1,23
 Sonny Fox,24 January 2021,95,Television host,United States (Encino),2021,1,24
 Abdullahi Ibrahim,24 January 2021,82,Minister of Justice of Nigeria (1997–1999),Nigeria,2021,1,24
-Franciszek Kokot,24 January 2021,91,"Doctor (Nephrology and endocrinology), and rector of Medical Academy of Silesia (1982–1984)",Poland (Chorzów),2021,1,24
+Franciszek Kokot,24 January 2021,91,"Nephrologist, endocrinologist, and rector of Medical Academy of Silesia (1982–1984)",Poland (Chorzów),2021,1,24
 Sigvard Marjasin,24 January 2021,91,Governor of Örebro County (1989–1994) and President of the Swedish Municipal Workers' Union (1977–1988),Sweden (Örebro),2021,1,24
 Marcel Uderzo,24 January 2021,87,Comic book artist,France (Évreux),2021,1,24
 Makhosi Vilakati,24 January 2021,,Minister of Labour and Social Security of Eswatini (since 2019),South Africa,2021,1,24
 Gregory Teu,25 January 2021,69,Member of the National Assembly of Tanzania (2010–2015),Tanzania (Arusha),2021,1,25
 David Bright,25 January 2021,64,Football manager,Botswana (Gaborone),2021,1,25
-David Katzenstein,25 January 2021,68,Doctor (Virology),Zimbabwe (Harare),2021,1,25
+David Katzenstein,25 January 2021,68,Virologist,Zimbabwe (Harare),2021,1,25
 Avelino Méndez Rangel,25 January 2021,62,Member of the Chamber of Deputies of Mexico (2009–2012),Mexico (Mexico City),2021,1,25
 Georgi Ananiev,26 January 2021,70,Minister of Defence of Bulgaria (1997–1999),Bulgaria,2021,1,26
 Steve Carter,26 January 2021,67,Member of the Louisiana House of Representatives (2008–2020),United States (Baton Rouge),2021,1,26
-James Gita Hakim,26 January 2021,66,Doctor (Cardiology) and Professor of Medicine at the University of Zimbabwe,Zimbabwe (Harare),2021,1,26
+James Gita Hakim,26 January 2021,66,Cardiologist and Professor of Medicine at the University of Zimbabwe,Zimbabwe (Harare),2021,1,26
 Ron Johnson,26 January 2021,64,Baseball player and manager,United States (Morrison),2021,1,26
 Lars Norén,26 January 2021,76,"Playwright, novelist, and poet",Sweden (Stockholm),2021,1,26
 Fábio Lúcio Rodrigues Avelar,26 January 2021,71,Member of the Legislative Assembly of Minas Gerais (1991–2011),Brazil,2021,1,26
@@ -1553,7 +1553,7 @@ Tozama Mantashe,31 January 2021,60,Member of the National Assembly of South Afri
 Wambali Mkandawire,31 January 2021,68,Jazz musician,Malawi (Lilongwe),2021,1,31
 Michel Murr,31 January 2021,88,Minister of Interior of Lebanon (1990–2000),Lebanon,2021,1,31
 Elizabeth Muyovwe,31 January 2021,64,Justice of the Supreme Court of Zambia (since 2010),Zambia (Lusaka),2021,1,31
-Ray Rayburn,31 January 2021,72,"Engineer, author, and standards analyst",United States (Texas),2021,1,31
+Ray Rayburn,31 January 2021,72,"Audio engineer, author, and standards analyst",United States (Texas),2021,1,31
 Yitzchok Scheiner,31 January 2021,98,Rabbi,Israel (Jerusalem),2021,1,31
 John M Squire,31 January 2021,75,Professor of structural biophysics at the University of London,United Kingdom (Salisbury),2021,1,31
 Meshulam Dovid Soloveitchik,31 January 2021,99,Rabbi and Rosh yeshiva of the Brisk yeshiva (since 1959),Israel (Jerusalem),2021,1,31
@@ -1561,7 +1561,7 @@ Ladislav Štaidl,31 January 2021,75,Composer and musician,Czech Republic (Prague
 Miroslav Tuđman,31 January 2021,74,Member of the Parliament of Croatia (since 2011) and scientist,Croatia (Zagreb),2021,1,31
 Abraham J. Twerski,31 January 2021,90,Rabbi and psychiatrist,Israel (Bnei Brak),2021,1,31
 Soraya Abdullah,1 February 2021,42,Actress,Indonesia,2021,2,1
-Emil J. Freireich,1 February 2021,93,Doctor (Oncology),United States (Houston),2021,2,1
+Emil J. Freireich,1 February 2021,93,Oncologist,United States (Houston),2021,2,1
 Jean-Pierre Jossua,1 February 2021,90,Writer and theologian,France (Verneuil-sur-Avre),2021,2,1
 Viktor Koval,1 February 2021,73,"Writer, actor, and artist",Russia (Moscow),2021,2,1
 Abd al-Sattar Qasim,1 February 2021,72,Political analyst and writer,State of Palestine (Nablus),2021,2,1
@@ -1585,7 +1585,7 @@ Hy Cohen,4 February 2021,90,Baseball player,United States (Rancho Mirage),2021,2
 Neville Fernando,4 February 2021,89,Member of the Parliament of Sri Lanka (1977–1989) and doctor,Sri Lanka (Angoda),2021,2,4
 Patricia Healey,4 February 2021,85,Singer and actress,United Kingdom,2021,2,4
 Mathoor Govindan Kutty,4 February 2021,80,Kathakali artist,India (Kottayam),2021,2,4
-Jaime Murrell,4 February 2021,71,Music composer,United States (Miami),2021,2,4
+Jaime Murrell,4 February 2021,71,Christian music composer,United States (Miami),2021,2,4
 Zwelifile Christopher Ntuli,4 February 2021,,Member of the KwaZulu-Natal Legislature (2014–2019) and member of the National Assembly of South Africa (2009–2014),South Africa,2021,2,4
 David Shepard,4 February 2021,73,Member of the Tennessee House of Representatives (2001–2017),United States,2021,2,4
 Roberto Torres,4 February 2021,82,Member of the Chamber of Deputies of Brazil (1987–1995),Brazil (Maceió),2021,2,4
@@ -1626,7 +1626,7 @@ Maurizio Mattei,12 February 2021,78,Football referee,Italy (Civitanova Marche),2
 Frederick K. C. Price,12 February 2021,89,Television evangelist and founder of Crenshaw Christian Center,United States (Torrance),2021,2,12
 Harith Bakari Mwapachu,12 February 2021,81,Member of the National Assembly of Tanzania (2000–2010),Tanzania,2021,2,12
 Olle Nygren,13 February 2021,91,Speedway rider,United Kingdom (Ipswich),2021,2,13
-Franz Jalics,13 February 2021,93,Priest and theologian,Hungary (Budapest),2021,2,13
+Franz Jalics,13 February 2021,93,Jesuit priest and theologian,Hungary (Budapest),2021,2,13
 Dave Nalle,13 February 2021,61,"Political writer, game author, and font designer",United States,2021,2,13
 Alberto Oliart,13 February 2021,92,Minister of Defence of Spain (1981–1982) and Chair of RTVE (2009–2011),Spain (Madrid),2021,2,13
 Enrique Rodríguez Galindo,13 February 2021,82,Military officer and convicted state terrorist,Spain (Zaragoza),2021,2,13
@@ -1684,8 +1684,8 @@ György Snell,26 February 2021,71,Auxiliary Bishop of Esztergom-Budapest (since 
 Mike Bradner,27 February 2021,83,Speaker of the Alaska House of Representatives (1975–1977) and member of the Alaska House of Representatives (1967–1977),United States (Anchorage),2021,2,27
 José Manuel Cortizas,27 February 2021,58,Sports journalist and voice actor,Spain (Barakaldo),2021,2,27
 Dante Crippa,27 February 2021,83,Footballer,Italy (Brescia),2021,2,27
-Marta Martin Carrera-Ruiz,27 February 2021,80,Actress,Cuba,2021,2,27
-Mariano Valdés Chávarri,27 February 2021,74,Doctor (Cardiology),Spain (El Palmar),2021,2,27
+Marta Martin Carrera-Ruiz,27 February 2021,80,Television personality,Cuba,2021,2,27
+Mariano Valdés Chávarri,27 February 2021,74,Cardiologist,Spain (El Palmar),2021,2,27
 Erica Watson,27 February 2021,48,Actress,Jamaica (Montego Bay),2021,2,27
 Sabah Abdul-Jalil,28 February 2021,69,Footballer and coach,Iraq (Baghdad),2021,2,28
 Aqel Biltaji,28 February 2021,80,Mayor of Amman (2013–2017),Jordan,2021,2,28
@@ -1709,7 +1709,7 @@ Karima Brown,4 March 2021,54,Radio broadcaster and journalist,South Africa,2021,
 Jim Crockett Jr.,4 March 2021,76,Professional wrestling promoter and businessman,United States (Charlotte),2021,3,4
 Hugh Newell Jacobsen,4 March 2021,91,Architect,United States (Front Royal),2021,3,4
 Atanasije Jevtić,4 March 2021,83,Bishop of Zahumlje and Herzegovina (1992–1999),Bosnia and Herzegovina (Trebinje),2021,3,4
-František Lízna,4 March 2021,79,Priest,Czech Republic (Olomouc),2021,3,4
+František Lízna,4 March 2021,79,Jesuit priest,Czech Republic (Olomouc),2021,3,4
 Stig Malm,5 March 2021,79,Chairman of Swedish Trade Union Confederation (1983–1993),Sweden (Stockholm),2021,3,5
 José Carlos da Silva Júnior,5 March 2021,94,Member of the Senate of Brazil (1996–1999) and vice-governor of Paraíba (1983–1986),Brazil (São Paulo),2021,3,5
 Mo Pinel,5 March 2021,78,Ten-pin bowling ball engineer and inventor,United States (Baton Rouge),2021,3,5
@@ -1954,7 +1954,7 @@ Suresh Srivastava,24 April 2021,76,Member of the Uttar Pradesh Legislative Assem
 Riitta Vainionpää,24 April 2021,68,Textile artist,Sweden (Stockholm),2021,4,24
 Zoram Sangliana,24 April 2021,65,Member of the Mizoram Legislative Assembly (2008–2018),India (Aizawl),2021,4,24
 Miloš Šobajić,24 April 2021,75,Painter and sculptor,Serbia (Belgrade),2021,4,24
-Pablo José Cámbar,25 April 2021,78,"Doctor, researcher, and academic",Honduras (Tegucigalpa),2021,4,25
+Pablo José Cámbar,25 April 2021,78,"Academic, researcher, and physician",Honduras (Tegucigalpa),2021,4,25
 Óscar Castro Ramírez,25 April 2021,73,Actor and playwright,France (Paris),2021,4,25
 Hamid Jasemian,25 April 2021,84,Footballer,Iran (Tehran),2021,4,25
 Kajal Sinha,25 April 2021,56,Member of the West Bengal Legislative Assembly (since 2021),India,2021,4,25
@@ -2009,7 +2009,7 @@ Rita Di Giovacchino,2 May 2021,74,Journalist,Italy (Rome),2021,5,2
 S. G. Neginhal,2 May 2021,93,Forester and conservationist,India (Bangalore),2021,5,2
 Damodar Barku Shingada,2 May 2021,66,Member of the Lok Sabha (2004–2009 and 1980–1996),India,2021,5,2
 Rafael Albrecht,3 May 2021,79,Footballer,Argentina (Buenos Aires),2021,5,3
-Vinod Kumar Bansal,3 May 2021,71,Teacher,India (Kota),2021,5,3
+Vinod Kumar Bansal,3 May 2021,71,Educationist,India (Kota),2021,5,3
 Hamid Rashid Ma`ala,3 May 2021,,Member of the Council of Representatives of Iraq (2005–2010),Iraq,2021,5,3
 Burhanettin Uysal,3 May 2021,53,Member of the Grand National Assembly of Turkey (2015–2018),Turkey (Ankara),2021,5,3
 Béchir Ben Yahmed,3 May 2021,93,Journalist,France (Paris),2021,5,3
@@ -2060,7 +2060,7 @@ Rahul Vohra,9 May 2021,35,YouTuber,India (Delhi),2021,5,9
 Sami Hasan Al Nash,10 May 2021,64,Football manager,Yemen (Aden),2021,5,10
 Jugal Kishore Bagri,10 May 2021,78,Member of the Madhya Pradesh Legislative Assembly (since 2018 and 1993–2013),India,2021,5,10
 Salem Chandrasekharan,10 May 2021,,Film producer,India,2021,5,10
-Marc Daniëls,10 May 2021,61,Comic book artist,Belgium (Jette),2021,5,10
+Marc Daniëls,10 May 2021,61,Comics artist,Belgium (Jette),2021,5,10
 Manohar Kattimani,10 May 2021,65,Member of the Karnataka Legislative Assembly (1999–2004),India,2021,5,10
 Cristopher Mansilla,10 May 2021,30,Track and road cyclist,Chile (Puerto Natales),2021,5,10
 Thummala Narsimha Reddy,10 May 2021,45,Actor and journalist,India (Hyderabad),2021,5,10
@@ -2071,7 +2071,7 @@ Rashid Meer,11 May 2021,70,Poet and editor,India (Vadodara),2021,5,11
 Vladislav Yegin,11 May 2021,32,Ice hockey player,Russia,2021,5,11
 Homen Borgohain,12 May 2021,88,Journalist and novelist,India (Guwahati),2021,5,12
 Nick Downie,12 May 2021,74,Journalist and soldier,South Africa,2021,5,12
-Rajeev Karwal,12 May 2021,58,Businessman,India,2021,5,12
+Rajeev Karwal,12 May 2021,58,Businessperson,India,2021,5,12
 Maran,12 May 2021,48,Actor and singer,India (Chengalpattu),2021,5,12
 Higinio Vélez,12 May 2021,73,Baseball manager,Cuba (Havana),2021,5,12
 Indu Jain,13 May 2021,84,Publishing executive,India (New Delhi),2021,5,13
@@ -2087,8 +2087,8 @@ Anjan Bandyopadhyay,16 May 2021,55,Television journalist,India (Kolkata),2021,5,
 Rajendrasinh Jadeja,16 May 2021,65,Cricketer and umpire,India (Rajkot),2021,5,16
 Rajiv Satav,16 May 2021,46,Member of the Rajya Sabha (since 2020) and Lok Sabha (2014–2019),India (Pune),2021,5,16
 Chetan Karki,16 May 2021,,Film director,Nepal,2021,5,16
-K. K. Aggarwal,17 May 2021,62,Doctor (Cardiology),India (Delhi),2021,5,17
-Amarendra Mohanty,17 May 2021,63,Composer and singer,India (Bhubaneswar),2021,5,17
+K. K. Aggarwal,17 May 2021,62,Cardiologist,India (Delhi),2021,5,17
+Amarendra Mohanty,17 May 2021,63,Music composer and singer,India (Bhubaneswar),2021,5,17
 Héctor Silva,17 May 2021,75,Rugby union player and coach,Argentina (La Plata),2021,5,17
 K. Thurairetnasingam,17 May 2021,80,Member of the Parliament of Sri Lanka (2015–2020 and 2002–2010),Sri Lanka (Kantale),2021,5,17
 Nitish Veera,17 May 2021,45,Actor,India,2021,5,17
@@ -2111,7 +2111,7 @@ Irom Maipak,20 May 2021,53,Cinematographer,India,2021,5,20
 U. Visweswar Rao,20 May 2021,74,Film director and screenwriter,India,2021,5,20
 Tarannum Riyaz,20 May 2021,60,Writer,India,2021,5,20
 Rizuan Abdul Hamid,20 May 2021,,Member of the Senate of Malaysia (2005–2011),Malaysia (Kuala Lumpur),2021,5,20
-Sándor Puhl,20 May 2021,65,Football referee,Hungary,2021,5,20
+Sándor Puhl,20 May 2021,65,Association football referee,Hungary,2021,5,20
 Sunderlal Bahuguna,21 May 2021,94,Environmentalist,India (Rishikesh),2021,5,21
 Ajoy Dey,21 May 2021,69,Member of the West Bengal Legislative Assembly (1991–2016),India (Kolkata),2021,5,21
 Rajkumar Keswani,21 May 2021,70,Journalist,India (Bhopal),2021,5,21
@@ -2173,7 +2173,7 @@ Douglas Cagas,10 June 2021,77,"Governor of Davao del Sur (since 2016, 2007–201
 Willem Konjore,10 June 2021,75,Member of the National Assembly of Namibia (1989–2010),Namibia (Windhoek),2021,6,10
 Larisa Shoygu,10 June 2021,68,Member of the State Duma (since 2007),Russia (Moscow),2021,6,10
 Taha Karaan,11 June 2021,52,Islamic scholar,South Africa (Cape Town),2021,6,11
-Ashok Panagariya,11 June 2021,71,Doctor (Neurology) and medical researcher,India (Jaipur),2021,6,11
+Ashok Panagariya,11 June 2021,71,Neurologist and medical researcher,India (Jaipur),2021,6,11
 Siddalingaiah,11 June 2021,67,Poet and member of the Karnataka Legislative Council (1988–2001),India (Bangalore),2021,6,11
 Ivo Baldi Gaburri,11 June 2021,74,Bishop of Huarí (since 2004),Peru (Huaraz),2021,6,11
 Surat Mathur,11 June 2021,90,Olympic long-distance runner,India (Delhi),2021,6,11
@@ -2187,7 +2187,7 @@ Paul Alois Lakra,15 June 2021,65,Bishop of Gumla (since 2006),India (Ranchi),202
 Ari Magalhães,15 June 2021,92,Member of the Chamber of Deputies of Brazil (1995–1999),Brazil (São Paulo),2021,6,15
 Benon Magezi,15 June 2021,60,Bishop of North Kigezi (since 2017),Uganda (Kampala),2021,6,15
 James Jim Skosana,15 June 2021,59,Member of the Mpumalanga Provincial Legislature (since 2018) and member of the National Assembly of South Africa (2009–2018),South Africa,2021,6,15
-Jabu Mabuza,16 June 2021,63,Businessman,South Africa,2021,6,16
+Jabu Mabuza,16 June 2021,63,Businessperson,South Africa,2021,6,16
 John Osmers,16 June 2021,86,Bishop of Eastern Zambia (1995–2002),Zambia (Lusaka),2021,6,16
 Joel Otim,16 June 2021,49,Olympic sprinter,Uganda (Kampala),2021,6,16
 Zhou Qingjun,16 June 2021,77,Social activist,Taiwan (Taipei),2021,6,16
@@ -2236,7 +2236,7 @@ Harmoko,4 July 2021,82,"Speaker of the People's Representative Council (1997–1
 Jane Shalimar,4 July 2021,41,Member of the People's Representative Council (since 2014),Indonesia (Jakarta),2021,7,4
 Adang Sudrajat,4 July 2021,58,Member of the People's Representative Council (since 2015),Indonesia (Bandung),2021,7,4
 Vladimir Menshov,5 July 2021,81,Actor,Russia (Moscow),2021,7,5
-Stan Swamy,5 July 2021,84,Priest,India (Mumbai),2021,7,5
+Stan Swamy,5 July 2021,84,Jesuit priest,India (Mumbai),2021,7,5
 Nikolai Reznichenko,6 July 2021,69,Military officer,Russia,2021,7,6
 Cameron Mackenzie,7 July 2021,60,Member of the National Assembly of South Africa (since 2014),South Africa (Fourways),2021,7,7
 Virbhadra Singh,8 July 2021,87,"Member of the Himachal Pradesh Legislative Assembly (since 1983), Chief Minister of Himachal Pradesh (2012–2017, 2003–2007, 1993–1998, and 1983–1990), and member of the Lok Sabha (2009–2014, 1980–1984, and 1962–1977)",India (Shimla),2021,7,8
